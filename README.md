@@ -39,8 +39,9 @@ De la misma forma, siendo que la corriente es la misma para todo el circuito, se
 </p>
 
 ## Resultados
+![Resultados](./screen05.jpg)
 <p>
-* Para t = 0
+* Cuando t = 0
 </p>
 
 <p>
@@ -51,7 +52,7 @@ De la misma forma, siendo que la corriente es la misma para todo el circuito, se
 </p>
 
 <p>
-* Para t = inf
+* Cuando t = inf
 </p>
 
 <p>
@@ -63,3 +64,4 @@ De la misma forma, siendo que la corriente es la misma para todo el circuito, se
 
 ## Conclusion
 Se podria decir que el inductor actua al reves que un capacitor.
+Cuando llega a estado estacionario la tension se anula y la corriente a traves de el es maxima
