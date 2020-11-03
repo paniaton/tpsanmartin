@@ -18,40 +18,48 @@ Por estar en serie, la corriente de todos los elementos es la misma
 Entonces se puede obtener la funcion de transferencia con la corriente del inductor como salida de la siguiente manera:
 </p>
 <p>
-<img src="https://latex.codecogs.com/gif.latex?il(s)=i(s)">
+<img src="https://latex.codecogs.com/gif.latex?i_{l}(s)=i(s)">
 </p>
 <p>
-<img src="https://latex.codecogs.com/gif.latex?il(s)=\frac{\epsilon(s)}{Zeq}">
+<img src="https://latex.codecogs.com/gif.latex?i_{l}(s)=\frac{\epsilon(s)}{Zeq}">
 </p>
-<img src="https://latex.codecogs.com/gif.latex?\frac{il(s)}{\epsilon(s)}=\frac{1}{Zeq}">
+<img src="https://latex.codecogs.com/gif.latex?\frac{i_{l}(s)}{\epsilon(s)}=\frac{1}{Zeq}">
 </p>
 
 
 De la misma forma, siendo que la corriente es la misma para todo el circuito, se puede obtener la funcion de transferencia con la tension del inductor como salida:
 <p>
-<img src="https://latex.codecogs.com/gif.latex?Vl(s)=i(s).Zl">
+<img src="https://latex.codecogs.com/gif.latex?V_{l}(s)=i(s).Z_{l}">
 </p>
 <p>
-<img src="https://latex.codecogs.com/gif.latex?Vl(s)={\epsilon(s)}.\frac{1}{Zeq}.Zl">
+<img src="https://latex.codecogs.com/gif.latex?V_{l}(s)={\epsilon(s)}.\frac{1}{Zeq}.Z_{l}">
 </p>
 <p>
-<img src="https://latex.codecogs.com/gif.latex?\frac{Vl(s)}{\epsilon(s)} = \frac{SL}{R+SL}">
+<img src="https://latex.codecogs.com/gif.latex?\frac{V_{l}(s)}{\epsilon(s)} = \frac{SL}{R+SL}">
 </p>
 
 ## Resultados
 <p>
-Para t = 0
+* Para t = 0
 </p>
-
-* Vl = V
-* il = 0
 
 <p>
-Para t = inf
+<img src="https://latex.codecogs.com/gif.latex?V_{l}=V">
+</p>
+<p>
+<img src="https://latex.codecogs.com/gif.latex?i_{l}=0">
 </p>
 
-* Vl = 0 
-* il = V.L
+<p>
+* Para t = inf
+</p>
+
+<p>
+<img src="https://latex.codecogs.com/gif.latex?V_{l}=0">
+</p>
+<p>
+<img src="https://latex.codecogs.com/gif.latex?i_{l}=V.L">
+</p>
 
 ## Conclusion
 Se podria decir que el inductor actua al reves que un capacitor.
