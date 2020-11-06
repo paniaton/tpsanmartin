@@ -63,5 +63,5 @@ De la misma forma, siendo que la corriente es la misma para todo el circuito, se
 </p>
 
 ## Conclusion
-Se podria decir que el inductor actua al reves que un capacitor.
-Cuando llega a estado estacionario la tension se anula y la corriente a traves de el es maxima
+El inductor funciona como un amortiguador de la tension inicial del circuito, haciendo asi que la corriente en la resistencia sea 0 en t=0, ya que la tension en la misma tambien es 0.
+<p>El inductor entonces hace que el escalon de tension sobre el circuito, resulte en un incremento progresivo</p>
